@@ -82,6 +82,6 @@ m = 4,
 u = rep(1/sqrt(6), 6))
 
 # Estimate the AQE for covariate bmi at the levels for 23 and 28 given other covariates fixed
-P_ZIQSI = AQE(y,X[,-1],X,indexl = 2, indexq = 3, value1 = 23, value2 = 28,
-taus = 0.5, m = 3, u = rep(sqrt(1/6),6))
+# P_ZIQSI = AQE(y,X[,-1],X,indexl = 2, indexq = 3, value1 = 23, value2 = 28,
+# taus = 0.5, m = 3, u = rep(sqrt(1/6),6))
 ```
