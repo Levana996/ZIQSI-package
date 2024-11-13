@@ -20,9 +20,9 @@ devtools::install_github("https://github.com/Levana996/ZIQSI_package")
 
 ## Functions in the ZIQSI Package
 ### proposed.nonsmooth.spline
-The **proposed.nonsmooth.spline** function provides a novel zero-inflated semiparametric single-index quantile regression algorithm to predict the personal quantile curve for zero-inflated response with given samples.
+The `proposed.nonsmooth.spline` function provides a novel zero-inflated semiparametric single-index quantile regression algorithm to predict the personal quantile curve for zero-inflated response with given samples.
 ### AQE
-The **AQE** function estimates the average quantile difference for two different values of a covariate while controlling for other covariates.
+The `AQE` function estimates the average quantile difference for two different values of a covariate while controlling for other covariates.
 
 ## Examples and Usage
 ```{r}
