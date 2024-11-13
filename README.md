@@ -15,7 +15,7 @@ To install the **ZIQSI** package from GitHub, you can use the following code:
 # If devtools is not already installed, install it first
 # install.packages("devtools")
 # Install the ZIQSI package from GitHub
-devtools::install_github("https://github.com/Levana996/ZIQSI_package")
+devtools::install_github("https://github.com/Levana996/ZIQSI-package")
 ```
 
 ## Functions in the ZIQSI Package
