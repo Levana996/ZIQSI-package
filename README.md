@@ -26,6 +26,7 @@ The `AQE` function estimates the average quantile difference for two different v
 
 ## Examples and Usage
 ```{r}
+library(ZIQSI)
 # Set the random seed for reproducibility
 set.seed(100002)
 # Sample size
