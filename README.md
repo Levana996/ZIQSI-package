@@ -62,7 +62,6 @@ x1 = rbinom(n, 1, 0.5) # Medicament use
 x2 = rnorm(n, 28, 2) # bmi
 x3 = rnorm(n, 92.5, 13) # waist
 x4 = rnorm(n, 80, 12) # diastolic_bp
-proposed.nonsmooth.spline 5
 x5 = rnorm(n, 124, 18.5) # systolic_bp
 x0 = rep(1, n)
 # Covariates of each sample
